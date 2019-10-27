@@ -1,0 +1,20 @@
+.main__col-1{
+    
+    width: 100%;
+
+    height: 350px;
+}
+
+
+.main__col-2{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+    font-size: 24px;
+}
+
+.main__col-2 .main__col-2-1 i{
+    margin-left: 5px;
+}
+
