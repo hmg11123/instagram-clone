@@ -5,4 +5,10 @@
 
 - [x] Header Nav
 - [x] Header
-- [ ] Stroy
+- [x] Stroy
+- [x] Acoount
+- [x] styles
+- [x] footer
+- [x] index
+- [x] content
+- [x] reset
